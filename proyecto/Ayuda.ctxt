@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Ayuda\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=void\ interseccionBoton()
+comment1.text=\r\n\ metodo\ en\ el\ que\ se\ checa\ si\ hay\ una\ inteseccion\ entre\ el\ boton\ y\ el\ puntero\ del\ mouse,\ si\ esto\ ocurre\r\n\ manda\ llamar\ a\ otra\ imagen\ y\ la\ hace\ mas\ grande\ para\ que\ de\ un\ buen\ efecto\ visual\r\n
+comment2.params=
+comment2.target=void\ clicBoton()
+comment2.text=\r\nmetodo\ que\ checa\ si\ se\ preciono\ click\ en\ el\ boton\ si\ asi\ lo\ hizo\ se\ procede\ a\ llamar\ a\ la\ accion\ correspondiente\ \r\n
+numComments=3

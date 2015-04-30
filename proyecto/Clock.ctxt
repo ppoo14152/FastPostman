@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=world
+comment0.target=void\ addedToWorld(greenfoot.World)
+comment0.text=\r\n\ When\ the\ clock\ is\ added\ to\ the\ world,\ just\ update\ it\r\n\ (same\ as\ we\ do\ in\ the\ act\ method.)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Execute\ repeatedly.\r\n
+comment2.params=
+comment2.target=void\ updateTime()
+comment2.text=\r\n\ Update\ the\ hours,\ minutes\ and\ seconds\ fields.\r\n
+comment3.params=val
+comment3.target=java.lang.String\ getStr(int)
+comment3.text=\r\n\ Put\ a\ 0\ before\ the\ number\ if\ it's\ less\ than\ 10.\r\n
+comment4.params=
+comment4.target=void\ draw()
+comment4.text=\r\n\ Put\ a\ reasonable\ font\ on\ the\ image\ and\ draw\ it\ to\ the\ world.\r\n
+numComments=5
